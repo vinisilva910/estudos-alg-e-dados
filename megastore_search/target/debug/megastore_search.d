@@ -1,0 +1,1 @@
+/workspaces/estudos-alg-e-dados/megastore_search/target/debug/megastore_search: /workspaces/estudos-alg-e-dados/megastore_search/src/lib.rs /workspaces/estudos-alg-e-dados/megastore_search/src/main.rs
